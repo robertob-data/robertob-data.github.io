@@ -1,27 +1,58 @@
-# Roberto Dias | Portfolio V2
+# Roberto Dias | Portfolio
 
-Portfolio estático em HTML, CSS e JavaScript.
+Personal portfolio website showcasing my work in software development, automation, data processing, and custom business systems.
 
-## Estrutura
+## About
 
-- `index.html` → estrutura e conteúdo
-- `style.css` → visual, responsividade e tema claro/escuro
-- `script.js` → interação mínima do botão de tema
-- `assets/foto.png` → foto original usada no hero
-- `assets/dashboard.png` → screenshot real do sistema
-- `assets/cadastro-peca.png` → screenshot real do cadastro
-- `assets/metricas.png` → screenshot real das métricas
+I develop solutions focused on:
 
-## Abrir no VS Code
+* Process automation
+* API integration
+* Data processing
+* Web scraping
+* Database-driven systems
+* Custom business tools
 
-Sim. Abra a pasta no VS Code e abra `index.html` no navegador.
+## Featured Case
 
-Não precisa de Python, banco de dados ou servidor para esta versão.
+### Mayara Modas
 
-## Publicação
+A custom business management system developed for a real client and currently used in production.
 
-Como é um site estático, pode ser hospedado em serviços de páginas estáticas ou em um serviço como Railway.
+The system includes:
 
-## Observação
+* Product and inventory management
+* Sales management
+* Payment methods and discounts
+* Returns and exchanges
+* Sales history
+* Business metrics
+* Financial and inventory tracking
+* Automated backups
 
-O case do Mayara Modas apresenta o sistema como cliente real, em produção e uso diário. O código-fonte do sistema comercial não faz parte deste repositório.
+**Stack:** Python, Streamlit, SQLite, Google Drive API, Railway, and GitHub.
+
+The commercial system source code is private and is not included in this repository.
+
+## Tech Stack
+
+`HTML` `CSS` `JavaScript`
+
+## Structure
+
+* `index.html` → website structure and content
+* `style.css` → styling and responsiveness
+* `script.js` → theme interaction
+* `assets/` → portfolio images and screenshots
+
+## Contact
+
+* [LinkedIn](https://www.linkedin.com/in/roberto-batista-dias-583972415/)
+* [Instagram](https://www.instagram.com/robertob.dev/)
+* [GitHub](https://github.com/robertob-data)
+* [WhatsApp](https://wa.me/5587996629297)
+
+---
+
+**Roberto Dias**
+Automation, data processing, integrations, and custom software solutions.
